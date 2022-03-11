@@ -1,7 +1,5 @@
 import smtplib
 
-
-
 class Gmail:
     def __init__(self, acc, pl, **kwargs):
         self.acc = acc
